@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "comparision_of_the_models2", "comparision_of_the_models2.pyproj", "{A2193161-7E9A-4161-9150-D5A2BE8BB1EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2193161-7E9A-4161-9150-D5A2BE8BB1EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2193161-7E9A-4161-9150-D5A2BE8BB1EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D1ABDE-6DA2-4B9D-B9D9-50F77CA1DD45}
+	EndGlobalSection
+EndGlobal
